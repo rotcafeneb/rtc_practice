@@ -1,0 +1,8 @@
+uint8 NOW = 0
+uint8 DEFERRED = 1
+
+uint8 type
+float32 duration
+---
+bool success
+string message

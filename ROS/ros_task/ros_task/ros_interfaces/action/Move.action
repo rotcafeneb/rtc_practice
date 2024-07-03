@@ -1,0 +1,7 @@
+int32 target_position
+float32 duration
+---
+std_msgs/Header header                # заголовок сообщения
+string message                        # сообщение, если произошла ошибка
+---
+int32 position
