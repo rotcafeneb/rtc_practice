@@ -1,0 +1,3 @@
+action_server:
+  ros__parameters:
+    rate: 2.0             # Frequency of publishing feedback
